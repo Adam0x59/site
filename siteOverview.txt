@@ -1,0 +1,32 @@
+Site Overview
+----
+
+    An online portfolio of work:
+	
+	- Display completed work publicaly. (Projects/work displayed as
+	defined by admin-adam.)
+
+	- Display all projects to a private user. (completed/in-progress
+	projects/work.)
+
+	- Display a profile. (As it says, just about all the things).
+
+	- Enable public user to contact me via a webform. (email/name/msg.)
+
+	- Enable private user to select pages to display publicaly.
+
+	- A basic blog page for general blogging and such, all public.
+
+Preliminary site map (Main Pages)
+----
+
+	[Public Homepage]
+		[Post Detail]
+		[Post map]
+		[User Login Page]
+			[Private homepage]
+				[post map]
+				[site file map]
+	    		[Public management page]
+		[Profile]
+	
